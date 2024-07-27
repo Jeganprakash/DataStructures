@@ -1,0 +1,9 @@
+[submodule "DS-HashMap"]
+	path = DS-HashMap
+	url = https://github.com/Jeganprakash/DS-HashMap
+[submodule "DS-MutableSet"]
+	path = DS-MutableSet
+	url = https://github.com/rmdharshini/DS-MutableSet
+[submodule "DS-MutableList"]
+	path = DS-MutableList
+	url = https://github.com/rmdharshini/DS-MutableList
